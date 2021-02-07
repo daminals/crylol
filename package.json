@@ -1,7 +1,6 @@
 {
-  "name": "AdobeAnimate",
+  "name": "crylol",
   "version": "1.0.0",
-  "description": "",
   "engines": {
     "node": "12.9.1"
   },
@@ -14,7 +13,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daniel Kogan",
   "dependencies": {
     "axios": "^0.21.0",
     "dotenv": "^8.2.0",
@@ -24,5 +23,16 @@
     "nodemon": "^2.0.6",
     "semantic-ui-css": "^2.4.1",
     "vanilla-router": "^1.2.8"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daminals/crylol.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daminals/crylol/issues"
+  },
+  "homepage": "https://github.com/daminals/crylol#readme",
+  "description": ""
 }
